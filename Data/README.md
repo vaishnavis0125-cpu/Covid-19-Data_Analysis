@@ -1,1 +1,1 @@
-This folder contains raw and cleaned COVID-19 datasets.
+This folder contains raw COVID-19 datasets.
